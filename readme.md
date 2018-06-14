@@ -1,4 +1,5 @@
-=== Weldome to XELA framework ===
+Welcome to XELA framework
+=========================
 
 This is simple PHP framework for creating simple websites. 
 
