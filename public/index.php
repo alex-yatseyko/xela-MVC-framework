@@ -4,4 +4,4 @@
 	// Init Core Library
 	$init = new Core;
 
-	$init->getUrl();
+	// $init->getUrl();
