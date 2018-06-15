@@ -2,6 +2,7 @@
 	class Pages extends Controller{
 		public function __construct(){
 			//echo 'Pages loaded';  // Testing if default Controller is used. 
+			$this->postModel = $this->model('Post');
 		}
 
 		public function index(){
