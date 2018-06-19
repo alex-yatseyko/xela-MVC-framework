@@ -1,4 +1,6 @@
 body {
 	background: #fff;
 	color: black;
+	font-size: 2rem;
+	position: inherit;
 }
